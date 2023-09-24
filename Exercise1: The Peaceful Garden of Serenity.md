@@ -1,6 +1,7 @@
 # The Peaceful Garden of Serenity
 
 Imagine you're in this tranquil garden where the leaves sway gently in the breeze. Soft blue lights twinkle among the greenery, creating a soothing, almost otherworldly atmosphere. It's as if the garden itself is radiating positive energy, wrapping you in a cozy cocoon of calmness… 
+![](https://github.com/Sartbayeva/DesertMediaArt/blob/main/IMG_9350.JPG)
 
 ### Concept / Intention for the Work:
 
