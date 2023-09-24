@@ -38,4 +38,4 @@ I would like to integrate THE SPEAKER. Specifically, combine the LED animation w
 
 ### Demo Video:
 
-![](https://github.com/Sartbayeva/DesertMediaArt/blob/main/IMG_9353%20(1).mov)
+https://drive.google.com/file/d/1e3XVWrXeUiTXK607xFS9ZJQeMELgf-HV/view?usp=sharing 
