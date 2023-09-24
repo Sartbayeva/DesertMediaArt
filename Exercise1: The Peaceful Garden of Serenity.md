@@ -36,3 +36,5 @@ I believe this exercise achieved its goal of creating a calming and meditative a
 
 I would like to integrate THE SPEAKER. Specifically, combine the LED animation with ambient sounds or soothing music to create a more immersive meditative environment.
 
+### Demo Video:
+![](https://github.com/Sartbayeva/DesertMediaArt/blob/main/IMG_9353%20(1).mov)
